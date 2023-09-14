@@ -16,5 +16,6 @@ class House:
 house1 = House(150, 2, "wood")
 house2 = House(200, 3, "brick")
 
+
 print(f"The cost of building House 1 is ${house1.calculate_cost()}.")
 print(f"The cost of building House 2 is ${house2.calculate_cost()}.")
